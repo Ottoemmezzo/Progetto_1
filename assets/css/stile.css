@@ -3,6 +3,7 @@
 body{
     font-family: 'Open Sans', sans-serif;
     line-height: 1.65;
+    font-size: 1.2rem;
     color:#393d41;
 }
 h1{
@@ -53,7 +54,7 @@ main a{
     border-radius: 5px;
     text-decoration: none;
     padding: 10px 20px;
-    font-size: 1.2rem;
+    
     font-variant: small-caps;
     font-weight: bold;
     
@@ -93,6 +94,8 @@ aside div{
     border:1px solid #dee1e3;
     border-radius: 5px;
     margin-bottom:50px;
+    font-size: 1.4rem;
+    padding:30px;
 }
 aside div img{
     width:100%;
